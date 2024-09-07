@@ -18,12 +18,11 @@ El componente `ListaFiltrable` presenta una lista de frutas que se puede filtrar
 2. **Filtrado Dinámico**: La lista se actualiza en tiempo real para mostrar solo las frutas que coinciden con el criterio de búsqueda.
 3. **Manejo de Estado**: El estado del filtro y las frutas filtradas se gestionan mediante hooks.
 
-### Cómo Ejecutar el Proyecto
 
-### Instala las Dependencias
+#### Instalar las Dependencias
     npm install
     
-### Ejecuta el Proyecto
+#### Ejecuta el Proyecto
     npm start
 
 
